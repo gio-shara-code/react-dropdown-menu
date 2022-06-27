@@ -1,5 +1,5 @@
 {
-  "name": "react-dropdown-menu",
+  "name": "awesome-react-dropdown-menu",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gio-shara-code/react-dropdown-menu.git"
+    "url": "https://github.com/gio-shara-code/react-dropdown-menu.git"
   },
-  "author": "",
+  "author": "Giorgi Sharashenidze <gio.shara12345@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gio-shara-code/react-dropdown-menu/issues"
   },
-  "homepage": "https://github.com/gio-shara-code/react-dropdown-menu#readme"
+  "homepage": "https://github.com/gio-shara-code/react-dropdown-menu#readme",
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/awesome-react-dropdown-menu",
+    "access": "public"
+  }
 }
