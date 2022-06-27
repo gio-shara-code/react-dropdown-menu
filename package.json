@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/gio-shara-code/react-dropdown-menu#readme",
   "publishConfig": {
-    "registry": "https://www.npmjs.com/package/awesome-react-dropdown-menu",
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "devDependencies": {
